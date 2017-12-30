@@ -1,0 +1,5 @@
+train_tripletloss.py facenet网络训练以及finetuning函数
+findBestThreshold.py 运用交叉验证法，在训练集上寻找使准确率最高的分割阈值
+facenet.py 网络的架构以及关键函数
+verif.py 在images_aligned_sample文件中准备好测试集图像以及diff_pairs.txt以及same_pairs.txt，就可以计算网络的识别准确率
+model文件夹中放置训练好的ckpt文件(注意，我自己fine-tuning出来的模型比原本的模型效果要差，原因未知)

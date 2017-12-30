@@ -1,0 +1,3 @@
+/home/jd/MyWorkspace/About_interface_and_verification_example/images_aligned_sample/10/00186.jpg  /home/jd/MyWorkspace/About_interface_and_verification_example/images_aligned_sample/100/01807.jpg
+/home/jd/MyWorkspace/About_interface_and_verification_example/images_aligned_sample/10/00184.jpg  /home/jd/MyWorkspace/About_interface_and_verification_example/images_aligned_sample/1/00001.jpg
+/home/jd/MyWorkspace/About_interface_and_verification_example/images_aligned_sample/100/01807.jpg  /home/jd/MyWorkspace/About_interface_and_verification_example/images_aligned_sample/10/00183.jpg
